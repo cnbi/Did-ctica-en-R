@@ -1,4 +1,3 @@
-# Did-ctica-en-R
 # Didáctica en R
 Este repositorio contiene el script y la base de datos utilizados en el artículo "Didáctica en R" publicado en el cuarto volumen de la revista estudiantil Medir y Evaluar de
 la Universidad Nacional de Colombia. 
